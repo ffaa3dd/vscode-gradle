@@ -18,7 +18,7 @@
   ],
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -32,7 +32,7 @@
   "[java]": {
     "editor.defaultFormatter": "redhat.java",
     "editor.codeActionsOnSave": {
-      "source.fixAll.spotlessGradle": true
+      "source.fixAll.spotlessGradle": "explicit"
     }
   },
   "[xml]": {
